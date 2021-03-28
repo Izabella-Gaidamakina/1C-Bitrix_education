@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="783d967e-aef2-4e69-89ce-5bae9d96a181" name="Skillbox" url="http://cf61612-bitrix.tw1.ru/?finish">
+        <fileTransfer rootFolder="/home/c/cf61612/bitrix" accessType="SFTP" host="185.114.245.124" port="22" sshConfigId="5b1d68b3-fe16-47fc-be2d-5cad35622cd5" sshConfig="cf61612@185.114.245.124:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
